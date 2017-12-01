@@ -10,11 +10,12 @@
 
 • افتح ترمنال وحط 
 
-git clone https://github.com/moodlIMyIl/TshAkEapi
+git clone  git https://github.com/kazem199700/Hacker
 
 • انتر وراه حط •
 
-cd TshAkEapi
+cd Hacker
+
 
 • وانتر وراه حط •
 
